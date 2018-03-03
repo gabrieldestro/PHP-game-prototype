@@ -1,0 +1,30 @@
+#login-failed {
+    display: none;
+}
+.login {
+    color: #666;
+    padding: 50px;
+    background-color: white;
+    border: 1px solid skyblue;
+    border-radius: 25px;
+    position: absolute;
+    top: 110px;   
+}
+#loginFailed {
+    color: white;
+    background-color: red;
+    border: 1px solid red;
+    border-radius: 10px;
+    padding-top: 15px;
+    padding-left: 15px;
+}
+#btnLogin {
+    background-color: white;
+    color: dodgerblue;
+    border: 2px solid dodgerblue;
+}
+#btnLogin:hover {
+    background-color: dodgerblue;
+    color: white;
+    border: 2px solid dodgerblue;
+}
